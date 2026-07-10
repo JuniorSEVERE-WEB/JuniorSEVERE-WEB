@@ -2,18 +2,18 @@
 <h3 align="center">Full-Stack Developer | Cloud DevOps Engineer | AWS | Terraform | Kubernetes</h3>
 
 <p align="center">
-  🎯 En reconversion de l'ingénierie agricole vers la tech, je vise un poste <b>Full-Stack Developer</b> ou <b>Cloud DevOps Engineer</b> en remote.
+  🎯 Transitioning from Agricultural Engineering to Tech, targeting a <b>Full-Stack Developer</b> or <b>Cloud DevOps Engineer</b> remote role.
 </p>
 
 ---
 
-### 🚀 À propos de moi
+### 🚀 About Me
 
-- 🎓 Bac+5 en Ingénierie Agricole (Université d'État d'Haïti) — reconversion complète vers le développement web et le cloud
-- 💻 Stack principale : **Python / Django** & **JavaScript / React**, déployée sur **AWS**
-- ☁️ Passionné par l'infrastructure as code, la conteneurisation et l'automatisation DevOps
-- 📚 En apprentissage continu : certifications cloud & outils DevOps (voir ci-dessous)
-- 🌍 Trilingue : Créole haïtien (natif), Français (courant), Anglais (intermédiaire-avancé, TOEFL en préparation)
+- 🎓 Bac+5 in Agricultural Engineering (State University of Haiti) — fully transitioned into web development and cloud engineering
+- 💻 Main stack: **Python / Django** & **JavaScript / React**, deployed on **AWS**
+- ☁️ Passionate about infrastructure as code, containerization, and DevOps automation
+- 📚 Continuously learning: pursuing several cloud & DevOps certifications (see below)
+- 🌍 Trilingual: Haitian Creole (native), French (fluent), English (intermediate-advanced, currently preparing TOEFL iBT)
 
 ---
 
@@ -22,16 +22,16 @@
 ✅ **AWS Certified Cloud Practitioner**
 ✅ **CS50W — Web Programming with Python and JavaScript (Harvard University / edX)**
 
-🔄 **En cours :**
+🔄 **In progress:**
 - AWS Certified Solutions Architect – Associate (SAA)
 - HashiCorp Terraform Associate
 - Certified Kubernetes Application Developer (CKAD)
 - Red Hat Certified System Administrator (RHCSA)
-- TOEFL iBT (objectif 100+)
+- TOEFL iBT (target score: 100+)
 
 ---
 
-### 🛠️ Stack technique
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,16 +47,16 @@
 
 ---
 
-### 🏆 Projet phare
+### 🏆 Featured Project
 
-**🎓 Système de Gestion Scolaire (Full-Stack)**
-Django + React + PostgreSQL, déployé sur le cloud.
+**🎓 School Management System (Full-Stack)**
+Built with Django + React + PostgreSQL, deployed to the cloud.
 
-🔗 **Démo live :** [collegequisqueyadeleogane.juniorsevere.dev](https://collegequisqueyadeleogane.juniorsevere.dev/)
+🔗 **Live demo:** [collegequisqueyadeleogane.juniorsevere.dev](https://collegequisqueyadeleogane.juniorsevere.dev/)
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuniorSEVERE-WEB&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
@@ -72,7 +72,7 @@ Django + React + PostgreSQL, déployé sur le cloud.
 
 ---
 
-### 📫 Me contacter
+### 📫 Get in Touch
 
 [![Twitter](https://img.shields.io/badge/-@SEVEREJunior1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SEVEREJunior1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-severe-a4372b215/)
@@ -80,4 +80,4 @@ Django + React + PostgreSQL, déployé sur le cloud.
 
 ---
 
-<p align="center"><i>Ouvert aux opportunités remote en Full-Stack Development & Cloud/DevOps 🚀</i></p>
+<p align="center"><i>Open to remote opportunities in Full-Stack Development & Cloud/DevOps 🚀</i></p>
