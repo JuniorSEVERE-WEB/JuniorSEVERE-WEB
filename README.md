@@ -19,8 +19,11 @@
 
 ### 🎓 Certifications
 
-✅ **AWS Certified Cloud Practitioner**
-✅ **CS50W — Web Programming with Python and JavaScript (Harvard University / edX)**
+✅ **AWS Certified Cloud Practitioner**  
+[![AWS Cloud Practitioner](https://img.shields.io/badge/Credly-Verify_Badge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/60ffe627-f95a-4c16-a6b8-723d6f2000f0/public_url)
+
+✅ **CS50W — Web Programming with Python and JavaScript (Harvard University / edX)**  
+[![CS50W Certificate](https://img.shields.io/badge/Harvard_edX-View_Certificate-A51C30?style=for-the-badge&logo=edx&logoColor=white)](https://certificates.cs50.io/b9c3108e-8ffa-4a9d-89b4-ac4e49b7796e.pdf?size=letter)
 
 🔄 **In progress:**
 - AWS Certified Solutions Architect – Associate (SAA)
@@ -28,8 +31,6 @@
 - Certified Kubernetes Application Developer (CKAD)
 - Red Hat Certified System Administrator (RHCSA)
 - TOEFL iBT (target score: 100+)
-
----
 
 ### 🛠️ Tech Stack
 
