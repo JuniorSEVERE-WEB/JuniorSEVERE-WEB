@@ -27,10 +27,7 @@
 
 🔄 **In progress:**
 - AWS Certified Solutions Architect – Associate (SAA)
-- HashiCorp Terraform Associate
-- Certified Kubernetes Application Developer (CKAD)
-- Red Hat Certified System Administrator (RHCSA)
-- TOEFL iBT (target score: 100+)
+
 
 ### 🛠️ Tech Stack
 
