@@ -66,18 +66,12 @@ Built with Django + React + PostgreSQL, deployed to the cloud.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSEVERE-WEB&show_icons=true&theme=default&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorSEVERE-WEB&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSEVERE-WEB&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorSEVERE-WEB&theme=tokyonight" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorSEVERE-WEB&layout=compact&theme=default" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorSEVERE-WEB&theme=default" alt="GitHub streak" />
-</p>
-
----
 
 ### 📫 Get in Touch
 
