@@ -47,6 +47,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+### 🌍 Open Source Contributions
+
+✅ **First Contribution — Added to Contributors List** *(Merged)*  
+[![First Contributions](https://img.shields.io/badge/first--contributions-Merged_PR-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firstcontributions/first-contributions/pull/121067)
+
+🔄 **Haitian Creole Translation (README.ht.md)** *(Pending Review)*  
+[![First Contributions](https://img.shields.io/badge/first--contributions-Open_PR-dbab09?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firstcontributions/first-contributions/pull/121462)
+
+> Added a Kreyòl Ayisyen translation of the onboarding tutorial to make open source more accessible to Haitian developers.
 
 ### 🏆 Featured Project
 
