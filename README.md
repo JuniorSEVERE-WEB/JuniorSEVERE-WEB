@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior SEVERE</h1>
-<h3 align="center">Full-Stack Developer | Cloud DevOps Engineer | AWS | Terraform | Kubernetes</h3>
+<h3 align="center">Full-Stack Developer | Aspiring Cloud DevOps Engineer | AWS | Terraform | Kubernetes</h3>
 
 <p align="center">
   🎯 Transitioning from Agricultural Engineering to Tech, targeting a <b>Full-Stack Developer</b> or <b>Cloud DevOps Engineer</b> remote role.
