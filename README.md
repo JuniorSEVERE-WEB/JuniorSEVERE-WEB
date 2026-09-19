@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Bac+5 in Agricultural Engineering (State University of Haiti) — fully transitioned into web development and cloud engineering
+- 🎓 Bac+5 in Agricultural Engineering (Université d'État d'Haïti) — fully transitioned into web development and cloud engineering
 - 💻 Main stack: **Python / Django** & **JavaScript / React**, deployed on **AWS**
 - ☁️ Passionate about infrastructure as code, containerization, and DevOps automation
 - 📚 Continuously learning: pursuing several cloud & DevOps certifications (see below)
