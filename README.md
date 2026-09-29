@@ -19,6 +19,9 @@
 
 ### 🎓 Certifications
 
+✅ **Agentic AI — POC to Production on AWS (BeSA Cloud Academy / DataExpert.io)**  
+[![BeSA Certificate](https://img.shields.io/badge/DataExpert.io-Verify_Credential-00C787?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.dataexpert.io/certification/severejunior201771555/agentic-ai-poc-to-production-on-aws-a9cca1)
+
 ✅ **AWS Certified Cloud Practitioner**  
 [![AWS Cloud Practitioner](https://img.shields.io/badge/Credly-Verify_Badge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/60ffe627-f95a-4c16-a6b8-723d6f2000f0/public_url)
 
