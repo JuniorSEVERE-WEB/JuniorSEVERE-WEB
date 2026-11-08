@@ -17,25 +17,15 @@
 
 ---
 
-🎓 Certifications
+### 🎓 Certifications & Badges
 
-✅ AWS Certified Solutions Architect – Associate (SAA)
-[AWS SAA Credly Badge](https://www.credly.com/badges/46e61341-0247-4c9a-841d-e945709de544)
+* [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/46e61341-0247-4c9a-841d-e945709de544)
+* [![Agentic AI](https://img.shields.io/badge/BeSA-Agentic%20AI%20on%20AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)](Lien_vers_votre_certificat_BeSA)
+* [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-inactive?style=for-the-badge&logo=amazon-aws&logoColor=white)](Lien_vers_votre_badge_CCP)
+* [![CS50W](https://img.shields.io/badge/Harvard-CS50W-red?style=for-the-badge&logo=harvard&logoColor=white)](Lien_vers_votre_certificat_CS50W)
 
-✅ Agentic AI — POC to Production on AWS (BeSA Cloud Academy / DataExpert.io)
-[BeSA Certificate](Lien_vers_votre_certificat_BeSA)
-
-✅ AWS Certified Cloud Practitioner
-[AWS Cloud Practitioner](Lien_vers_votre_badge_CCP)
-
-✅ CS50W — Web Programming with Python and JavaScript (Harvard University / edX)
-[CS50W Certificate](Lien_vers_votre_certificat_CS50W)
-
-🔄 In progress:
-- Certified Kubernetes Administrator (CKA)
-
-🔄 **In progress:**
-- AWS Certified Solutions Architect – Associate (SAA)
+### 🔄 In progress:
+* **Certified Kubernetes Administrator (CKA)**
 
 
 ### 🛠️ Tech Stack
